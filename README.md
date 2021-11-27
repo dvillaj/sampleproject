@@ -1,5 +1,7 @@
 # A sample Python project
 
+This is a new Feature!
+
 ![Python Logo](https://www.python.org/static/community_logos/python-logo.png "Sample inline image")
 
 A sample project that exists as an aid to the [Python Packaging User
